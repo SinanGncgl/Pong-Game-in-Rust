@@ -169,7 +169,7 @@ impl event::EventHandler for MainState {
 
         canvas.draw(
             &scoreboard,
-            graphics::DrawParam::default().dest([SCREEN_WIDTH / 2., 10.]),
+            graphics::DrawParam::default().dest([SCREEN_WIDTH / 2.-40., 10.]),
         );
 
         canvas.finish(ctx).expect("error in canvas finish");
