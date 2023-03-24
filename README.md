@@ -1,5 +1,5 @@
 # Pong-Game-in-Rust
-Pong game written in Rust for educational purposes. I mainly implemented this game in order to get familiar with Rust.
+Pong game written in [Rust](https://www.rust-lang.org) with using [ggez](https://ggez.rs/) library for educational purposes. I mainly implemented this game in order to get familiar with Rust.
 
 ![](https://github.com/SinanGncgl/Pong-Game-in-Rust/blob/main/pong.gif)
 
