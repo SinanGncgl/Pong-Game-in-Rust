@@ -1,6 +1,8 @@
 # Pong-Game-in-Rust
 Pong game written in Rust for educational purposes
 
+![](https://github.com/SinanGncgl/Pong-Game-in-Rust/blob/main/pong.gif)
+
 # Installation For Debian/Ubuntu
 - First install [Rust](https://www.rust-lang.org/tools/install) 
 - Install dependencies with;
