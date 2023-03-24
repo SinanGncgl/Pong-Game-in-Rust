@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 ggez = "0.9.0-rc0"
 rand = "0.8.5"
+mint = "0.5.9"
